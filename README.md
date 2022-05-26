@@ -14,7 +14,7 @@
 
 To start an ephemeral developer environment and see RedwoodJS in action, click the following button:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/redwoodjs/gitpod-starter).
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/organic-software-as/paffles).
 
 If you prefer to set the project up on your local computer, please continue with the following instructions.
 
